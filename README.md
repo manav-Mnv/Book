@@ -1,5 +1,7 @@
 # Book Web
 
+![Status](https://img.shields.io/badge/status-completed-1f6feb?style=flat-square)
+
 A modern web application for showcasing books, built with Next.js and React.
 
 ## Features
